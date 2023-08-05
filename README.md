@@ -1,4 +1,6 @@
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F82%2Fb6%2F48%2F82b64893248a3a018403e9157dbc7cee.gif&tbnid=HAJhHcJrFZ2r6M&vet=12ahUKEwiAu6LSy8WAAxU95jgGHbHBC04QMygAegUIARD_AQ..i&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2F803540758518605868%2F&docid=3TMaFZzQy5aRYM&w=800&h=600&q=animated%20hospital%20management%20system%20gif&ved=2ahUKEwiAu6LSy8WAAxU95jgGHbHBC04QMygAegUIARD_AQ](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.careerguide.com%2Fcareer%2Fwp-content%2Fuploads%2F2021%2F02%2Fhealthcare_800x600_newcolors-1.gif&tbnid=8YC1Flvn4bf_xM&vet=12ahUKEwiAu6LSy8WAAxU95jgGHbHBC04QMygMegUIARCjAg..i&imgrefurl=https%3A%2F%2Fwww.careerguide.com%2Fcareer%2Fmba%2Fall-you-need-to-know-about-mba-in-hospital-management&docid=r0jJ8ql4TWiDqM&w=800&h=600&q=animated%20hospital%20management%20system%20gif&ved=2ahUKEwiAu6LSy8WAAxU95jgGHbHBC04QMygMegUIARCjAg)">
+<img align="right" alt="Coding" width="500" src="https://www.careerguide.com/career/wp-content/uploads/2021/02/healthcare_800x600_newcolors-1.gif">
+
+
 <h3 align="center">Basic Hospital Management System is a simple GUI-based Desktop Application in Tkinter which is user-friendly and very easy to understand. This Project is based on database and object-oriented techniques.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamikatiwari2002&label=Profile%20views&color=0e75b6&style=flat" alt="anamikatiwari2002" /> </p>
