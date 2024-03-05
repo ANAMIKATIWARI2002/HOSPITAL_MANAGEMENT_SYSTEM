@@ -200,7 +200,7 @@ class hospital:
         if self.notb.get()==" " or self.refno.get()==" ":
              messagebox.showerror("Error","All fields are required",parent=self.root)
         else:
-            conn=mysql.connector.connect(host="localhost",username="root",password="Anamika@01",database="mydata")
+            conn=mysql.connector.connect(host="localhost",username="root",password="*******",database="mydata")
             my_cursor=conn.cursor()
             my_cursor.execute("insert into hospital values(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)",(
                                                                                         self.book.get(),
@@ -223,7 +223,7 @@ class hospital:
 
 
     def fetch_data(self):
-        conn=mysql.connector.connect(host="localhost",username="root",password="Anamika@01",database="mydata")
+        conn=mysql.connector.connect(host="localhost",username="root",password="********",database="mydata")
         my_cursor=conn.cursor()
         my_cursor.execute("select * from hospital")
         rows=my_cursor.fetchall()
@@ -256,7 +256,7 @@ class hospital:
 
 
     def update(self):
-        conn=mysql.connector.connect(host="localhost",username="root",password="Anamika@01",database="mydata")
+        conn=mysql.connector.connect(host="localhost",username="root",password="********",database="mydata")
         my_cursor=conn.cursor()
         my_cursor.execute("update hospital set BOOKING_SLOT=%s,NameofTablets=%s,Dose=%s,NoofTablets=%s,IssueDate=%s,ExpDate=%s,DailyDose=%s,SideEffect=%s,PatientName=%s,DOB=%s,PatientAddress=%s where Reference=%s",(
                             self.book.get(),
@@ -293,7 +293,7 @@ class hospital:
 
 
     def Delete(self):
-        conn=mysql.connector.connect(host="localhost",username="root",password="Anamika@01",database="mydata")
+        conn=mysql.connector.connect(host="localhost",username="root",password="********",database="mydata")
         my_cursor=conn.cursor()
         query="delete from hospital where Reference=%s"
         value=(self.refno.get(),)
